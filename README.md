@@ -1,8 +1,3 @@
-# prof-scraper
+# professor-scraper
 
-This is a skeleton Stack project for the Functional Programming coursework exercise in Glasgow, Nov 2020. For full details, please refer to the course moodle page at
-https://moodle.gla.ac.uk/course/view.php?id=978
-
----
-Jeremy.Singer@glasgow.ac.uk
-16 Nov 2020
+In this project I usilised the Scalpel library in Haskell to scan the university of glasgow's staff list and count how many people are professors within in each of the colleges. Given that this was a trvial task to learn the potential of Haskell and the Scalpel library, this project also makes use of unit tests to assert that the program works as intended.
