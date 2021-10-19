@@ -1,0 +1,11 @@
+<Luke Poutney>
+GUID: 2314348p
+Date: 03/12/20
+200 words max
+
+This code successfully compiles with no errors and acquires the number of professors present in each school's staff listing.
+This number does not include honorary and visiting as required.
+
+All the specification should be implemented as required.
+
+My choice of visualisation was the CSV file, which was generated using the CSV processing library cassava.
